@@ -1,0 +1,668 @@
+[
+   {
+      "census" : "Date of census",
+      "city" : "City",
+      "population" : "Official population",
+      "country" : "Country"
+   },
+   {
+      "country" : "United Kingdom",
+      "city" : "London[Note 2]",
+      "population" : "8,825,001",
+      "census" : "28 June 2018"
+   },
+   {
+      "country" : "Germany",
+      "city" : "Berlin",
+      "population" : "3,711,930",
+      "census" : "31 December 2017"
+   },
+   {
+      "country" : "Spain",
+      "census" : "1 January 2018",
+      "city" : "Madrid",
+      "population" : "3,223,334"
+   },
+   {
+      "country" : "Italy",
+      "population" : "2,863,970",
+      "city" : "Rome",
+      "census" : "31 August 2018"
+   },
+   {
+      "population" : "2,206,488",
+      "city" : "Paris",
+      "census" : "7 January 2018",
+      "country" : "France"
+   },
+   {
+      "country" : "Romania",
+      "census" : "1 January 2017",
+      "population" : "2,106,144",
+      "city" : "Bucharest"
+   },
+   {
+      "country" : "Austria",
+      "census" : "1 October 2018",
+      "population" : "1,899,055",
+      "city" : "Vienna"
+   },
+   {
+      "census" : "31 December 2017",
+      "population" : "1,830,584",
+      "city" : "Hamburg",
+      "country" : "Germany"
+   },
+   {
+      "country" : "Poland",
+      "city" : "Warsaw",
+      "population" : "1,764,615",
+      "census" : "31 December 2017"
+   },
+   {
+      "country" : "Hungary",
+      "census" : "1 January 2017",
+      "city" : "Budapest",
+      "population" : "1,749,734"
+   },
+   {
+      "census" : "1 January 2018",
+      "population" : "1,620,343",
+      "city" : "Barcelona",
+      "country" : "Spain"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "population" : "1,464,301",
+      "city" : "Munich"
+   },
+   {
+      "city" : "Milan",
+      "population" : "1,372,810",
+      "census" : "30 July 2018",
+      "country" : "Italy"
+   },
+   {
+      "country" : "Czech Republic",
+      "city" : "Prague",
+      "population" : "1,301,132",
+      "census" : "1 January 2018"
+   },
+   {
+      "country" : "Bulgaria",
+      "census" : "31 December 2017",
+      "city" : "Sofia",
+      "population" : "1,238,438"
+   },
+   {
+      "country" : "Belgium",
+      "city" : "Brussels[Note 3][dubious â discuss]",
+      "population" : "1,191,604",
+      "census" : "1 January 2017"
+   },
+   {
+      "city" : "Birmingham",
+      "population" : "1,124,569",
+      "census" : "30 June 2017",
+      "country" : "United Kingdom"
+   },
+   {
+      "census" : "31 December 2016",
+      "city" : "Cologne",
+      "population" : "1,075,935",
+      "country" : "Germany"
+   },
+   {
+      "country" : "Italy",
+      "census" : "31 December 2016",
+      "city" : "Naples",
+      "population" : "970,185"
+   },
+   {
+      "country" : "Sweden",
+      "census" : "30 June 2018",
+      "city" : "Stockholm",
+      "population" : "960,031"
+   },
+   {
+      "census" : "31 December 2016",
+      "population" : "886,837",
+      "city" : "Turin",
+      "country" : "Italy"
+   },
+   {
+      "census" : "1 January 2015",
+      "population" : "869,815",
+      "city" : "Marseille",
+      "country" : "France"
+   },
+   {
+      "population" : "859,732",
+      "city" : "Amsterdam",
+      "census" : "31 May 2018",
+      "country" : "Netherlands"
+   },
+   {
+      "country" : "Croatia",
+      "population" : "803,647",
+      "city" : "Zagreb",
+      "census" : "31 December 2016"
+   },
+   {
+      "census" : "1 January 2017",
+      "population" : "787,808",
+      "city" : "Valencia",
+      "country" : "Spain"
+   },
+   {
+      "country" : "United Kingdom",
+      "population" : "781,743",
+      "city" : "Leeds",
+      "census" : "30 June 2017"
+   },
+   {
+      "country" : "Denmark",
+      "city" : "Copenhagen",
+      "population" : "777,218",
+      "census" : "31 December 2017"
+   },
+   {
+      "country" : "Poland",
+      "census" : "1 January 2017",
+      "population" : "765,320",
+      "city" : "KrakÃ³w"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "city" : "Frankfurt",
+      "population" : "736,414"
+   },
+   {
+      "country" : "Latvia",
+      "census" : "1 July 2017",
+      "population" : "700,518",
+      "city" : "Riga"
+   },
+   {
+      "country" : "Spain",
+      "city" : "Seville",
+      "population" : "689,434",
+      "census" : "1 January 2017"
+   },
+   {
+      "country" : "Poland",
+      "population" : "687,702",
+      "city" : "ÅÃ³dÅº",
+      "census" : "30 June 2018"
+   },
+   {
+      "country" : "Italy",
+      "city" : "Palermo",
+      "population" : "673,735",
+      "census" : "31 December 2016"
+   },
+   {
+      "country" : "Spain",
+      "census" : "1 January 2017",
+      "population" : "664,938",
+      "city" : "Zaragoza"
+   },
+   {
+      "country" : "Greece",
+      "census" : "24 May 2011",
+      "city" : "Athens",
+      "population" : "655,780"
+   },
+   {
+      "country" : "Finland",
+      "city" : "Helsinki",
+      "population" : "642,045",
+      "census" : "31 August 2017"
+   },
+   {
+      "census" : "30 June 2018",
+      "population" : "639,258",
+      "city" : "WrocÅaw",
+      "country" : "Poland"
+   },
+   {
+      "population" : "635,389",
+      "city" : "Rotterdam",
+      "census" : "August 2017",
+      "country" : "Netherlands"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "population" : "628,032",
+      "city" : "Stuttgart"
+   },
+   {
+      "city" : "Glasgow",
+      "population" : "615,070",
+      "census" : "30 June 2017",
+      "country" : "United Kingdom"
+   },
+   {
+      "census" : "31 December 2016",
+      "city" : "DÃ¼sseldorf",
+      "population" : "613,230",
+      "country" : "Germany"
+   },
+   {
+      "country" : "Germany",
+      "city" : "Dortmund",
+      "population" : "585,813",
+      "census" : "31 December 2016"
+   },
+   {
+      "population" : "583,601",
+      "city" : "Genoa",
+      "census" : "31 December 2016",
+      "country" : "Italy"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "population" : "583,084",
+      "city" : "Essen"
+   },
+   {
+      "country" : "Lithuania",
+      "city" : "Vilnius",
+      "population" : "577,484",
+      "census" : "3 March 2018"
+   },
+   {
+      "census" : "30 June 2017",
+      "city" : "Sheffield",
+      "population" : "575,424",
+      "country" : "United Kingdom"
+   },
+   {
+      "country" : "Germany",
+      "population" : "571,088",
+      "city" : "Leipzig",
+      "census" : "31 December 2016"
+   },
+   {
+      "census" : "1 January 2017",
+      "city" : "MÃ¡laga",
+      "population" : "569,002",
+      "country" : "Spain"
+   },
+   {
+      "population" : "563,439",
+      "city" : "Gothenburg",
+      "census" : "1 November 2017",
+      "country" : "Sweden"
+   },
+   {
+      "population" : "557,464",
+      "city" : "Bremen",
+      "census" : "31 December 2015",
+      "country" : "Germany"
+   },
+   {
+      "country" : "Ireland",
+      "city" : "Dublin",
+      "population" : "553,165",
+      "census" : "24 April 2016"
+   },
+   {
+      "city" : "Lisbon",
+      "population" : "547,733",
+      "census" : "1 January 2011",
+      "country" : "Portugal"
+   },
+   {
+      "country" : "Germany",
+      "city" : "Dresden",
+      "population" : "547,172",
+      "census" : "31 December 2016"
+   },
+   {
+      "census" : "30 June 2017",
+      "city" : "Manchester",
+      "population" : "541,263",
+      "country" : "United Kingdom"
+   },
+   {
+      "country" : "Poland",
+      "census" : "1 January 2017",
+      "population" : "540,372",
+      "city" : "PoznaÅ"
+   },
+   {
+      "census" : "30 June 2017",
+      "city" : "Bradford",
+      "population" : "534,279",
+      "country" : "United Kingdom"
+   },
+   {
+      "population" : "532,163",
+      "city" : "Hanover",
+      "census" : "31 December 2015",
+      "country" : "Germany"
+   },
+   {
+      "census" : "31 January 2018",
+      "population" : "532,111",
+      "city" : "The Hague",
+      "country" : "Netherlands"
+   },
+   {
+      "population" : "521,946",
+      "city" : "Antwerp",
+      "census" : "14 June 2017",
+      "country" : "Belgium"
+   },
+   {
+      "country" : "France",
+      "city" : "Lyon",
+      "population" : "521,098",
+      "census" : "1 January 2015"
+   },
+   {
+      "population" : "511,628",
+      "city" : "Nuremberg",
+      "census" : "31 December 2016",
+      "country" : "Germany"
+   },
+   {
+      "country" : "United Kingdom",
+      "census" : "30 June 2017",
+      "city" : "Edinburgh",
+      "population" : "507,170"
+   },
+   {
+      "census" : "31 December 2016",
+      "population" : "499,845",
+      "city" : "Duisburg",
+      "country" : "Germany"
+   },
+   {
+      "country" : "United Kingdom",
+      "city" : "Liverpool",
+      "population" : "484,578",
+      "census" : "30 June 2017"
+   },
+   {
+      "country" : "France",
+      "city" : "Toulouse",
+      "population" : "479,638",
+      "census" : "1 January 2015"
+   },
+   {
+      "city" : "GdaÅsk",
+      "population" : "463,754",
+      "census" : "1 January 2017",
+      "country" : "Poland"
+   },
+   {
+      "country" : "United Kingdom",
+      "census" : "30 June 2017",
+      "population" : "454,213",
+      "city" : "Bristol"
+   },
+   {
+      "country" : "Estonia",
+      "population" : "449,160",
+      "city" : "Tallinn",
+      "census" : "1 February 2018"
+   },
+   {
+      "country" : "Spain",
+      "census" : "1 January 2017",
+      "city" : "Murcia",
+      "population" : "443,243"
+   },
+   {
+      "city" : "Bratislava",
+      "population" : "429,564",
+      "census" : "31 December 2017",
+      "country" : "Slovakia Slovak Republic"
+   },
+   {
+      "country" : "Spain",
+      "census" : "1 January 2017",
+      "city" : "Palma de Mallorca",
+      "population" : "406,492"
+   },
+   {
+      "country" : "Poland",
+      "population" : "404,878",
+      "city" : "Szczecin",
+      "census" : "1 January 2017"
+   },
+   {
+      "country" : "Italy",
+      "population" : "388,367",
+      "city" : "Bologna",
+      "census" : "31 December 2016"
+   },
+   {
+      "city" : "Florence",
+      "population" : "382,258",
+      "census" : "31 December 2016",
+      "country" : "Italy"
+   },
+   {
+      "census" : "1 January 2017",
+      "city" : "Brno",
+      "population" : "377,973",
+      "country" : "Czech Republic"
+   },
+   {
+      "census" : "1 January 2017",
+      "city" : "Las Palmas",
+      "population" : "377,650",
+      "country" : "Spain"
+   },
+   {
+      "country" : "Bulgaria",
+      "census" : "31 December 2015",
+      "population" : "368,983",
+      "city" : "Plovdiv"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "city" : "Bochum",
+      "population" : "364,920"
+   },
+   {
+      "census" : "1 January 2016",
+      "city" : "IaÈi",
+      "population" : "362,142",
+      "country" : "Romania"
+   },
+   {
+      "country" : "United Kingdom",
+      "census" : "30 June 2017",
+      "city" : "Cardiff",
+      "population" : "361,468"
+   },
+   {
+      "city" : "Bydgoszcz",
+      "population" : "353,938",
+      "census" : "1 January 2017",
+      "country" : "Poland"
+   },
+   {
+      "country" : "United Kingdom",
+      "population" : "352,911",
+      "city" : "Coventry",
+      "census" : "30 June 2017"
+   },
+   {
+      "country" : "Germany",
+      "city" : "Wuppertal",
+      "population" : "352,390",
+      "census" : "31 December 2016"
+   },
+   {
+      "population" : "348,343",
+      "city" : "Leicester",
+      "census" : "30 June 2017",
+      "country" : "United Kingdom"
+   },
+   {
+      "country" : "Netherlands",
+      "population" : "347,644",
+      "city" : "Utrecht",
+      "census" : "31 January 2018"
+   },
+   {
+      "country" : "France",
+      "census" : "1 January 2015",
+      "population" : "346,055",
+      "city" : "Nice"
+   },
+   {
+      "country" : "Spain",
+      "census" : "1 January 2015",
+      "population" : "345,141",
+      "city" : "Bilbao"
+   },
+   {
+      "population" : "340,466",
+      "city" : "Lublin",
+      "census" : "1 January 2017",
+      "country" : "Poland"
+   },
+   {
+      "country" : "United Kingdom",
+      "city" : "Belfast",
+      "population" : "339,579",
+      "census" : "30 June 2017"
+   },
+   {
+      "country" : "United Kingdom",
+      "census" : "30 June 2017",
+      "city" : "Wakefield",
+      "population" : "336,834"
+   },
+   {
+      "census" : "31 December 2016",
+      "city" : "Aarhus",
+      "population" : "335,684",
+      "country" : "Denmark"
+   },
+   {
+      "country" : "Bulgaria",
+      "census" : "31 December 2015",
+      "city" : "Varna",
+      "population" : "334,466"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "city" : "Bielefeld",
+      "population" : "333,451"
+   },
+   {
+      "population" : "352,983",
+      "city" : "TimiÈoara",
+      "census" : "1 January 2016",
+      "country" : "Romania"
+   },
+   {
+      "city" : "MalmÃ¶",
+      "population" : "332,855",
+      "census" : "1 November 2017",
+      "country" : "Sweden"
+   },
+   {
+      "census" : "1 January 2017",
+      "population" : "329,988",
+      "city" : "Alicante",
+      "country" : "Spain"
+   },
+   {
+      "census" : "1 January 2017",
+      "population" : "325,916",
+      "city" : "CÃ³rdoba",
+      "country" : "Spain"
+   },
+   {
+      "country" : "United Kingdom",
+      "city" : "Nottingham",
+      "population" : "325,282",
+      "census" : "30 June 2017"
+   },
+   {
+      "census" : "31 December 2016",
+      "population" : "324,198",
+      "city" : "Bari",
+      "country" : "Italy"
+   },
+   {
+      "country" : "United Kingdom",
+      "city" : "Wigan",
+      "population" : "323,060",
+      "census" : "30 June 2017"
+   },
+   {
+      "city" : "Thessaloniki",
+      "population" : "322,240",
+      "census" : "24 May 2011",
+      "country" : "Greece"
+   },
+   {
+      "census" : "31 December 2016",
+      "population" : "322,125",
+      "city" : "Bonn",
+      "country" : "Germany"
+   },
+   {
+      "city" : "Cluj-Napoca",
+      "population" : "321,687",
+      "census" : "1 January 2016",
+      "country" : "Romania"
+   },
+   {
+      "country" : "Romania",
+      "census" : "1 January 2016",
+      "city" : "ConstanÈa",
+      "population" : "317,832"
+   },
+   {
+      "country" : "Italy",
+      "city" : "Catania",
+      "population" : "313,396",
+      "census" : "31 December 2016"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "population" : "311,846",
+      "city" : "MÃ¼nster"
+   },
+   {
+      "country" : "Germany",
+      "census" : "31 December 2016",
+      "population" : "309,999",
+      "city" : "Karlsruhe"
+   },
+   {
+      "census" : "1 January 2016",
+      "city" : "Craiova",
+      "population" : "305,689",
+      "country" : "Romania"
+   },
+   {
+      "population" : "304,781",
+      "city" : "Mannheim",
+      "census" : "31 December 2016",
+      "country" : "Germany"
+   },
+   {
+      "country" : "Romania",
+      "census" : "1 January 2016",
+      "population" : "304,340",
+      "city" : "GalaÈi"
+   }
+]
